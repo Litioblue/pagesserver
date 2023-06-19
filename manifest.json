@@ -1,6 +1,6 @@
 {
-    "name": "entomoappserver",
-    "short_name": "entomoappserver",
+    "name": "sqfliteok",
+    "short_name": "sqfliteok",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

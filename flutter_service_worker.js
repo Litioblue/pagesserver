@@ -4,15 +4,21 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "f5bd8de03cbfb4ff00da82d412b566e1",
 ".git/config": "999e3728d7587b8178d311600ef1c057",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/FETCH_HEAD": "3f3e99a194c24431c3fe89603781cb0c",
 =======
+=======
+>>>>>>> 1b89009653168747470dfca73823220782c76433
 const RESOURCES = {".git/COMMIT_EDITMSG": "6455d521f53780bf2b1b468fb986ea67",
 ".git/config": "be1d366ea61156d085bcf42b148f611e",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/FETCH_HEAD": "d42941736e9a3931fcca764cb14d54d9",
+<<<<<<< HEAD
+>>>>>>> 1b89009653168747470dfca73823220782c76433
+=======
 >>>>>>> 1b89009653168747470dfca73823220782c76433
 ".git/HEAD": "cf7dd3ce51958c5f13fece957cc417fb",
 ".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
@@ -28,6 +34,7 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "6455d521f53780bf2b1b468fb986ea67",
 ".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
 ".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+<<<<<<< HEAD
 <<<<<<< HEAD
 ".git/index": "90903afb6017def8019762af20d7a092",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
@@ -88,6 +95,8 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "6455d521f53780bf2b1b468fb986ea67",
 "assets/assets/images/colombia.json": "e4c1a43ffee9c2fff36995c48bea3606",
 "assets/assets/images/divipola.json": "2f990dec14257fecb802b0a3d641bc1f",
 =======
+=======
+>>>>>>> 1b89009653168747470dfca73823220782c76433
 ".git/index": "f9cd5b0eaf7aaa4fce940f38b5de0d69",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/HEAD": "20d2c687a19c0ff66939374d8ce3d1ba",
@@ -221,6 +230,9 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "6455d521f53780bf2b1b468fb986ea67",
 "assets/assets/images/aedesLogo.png": "9ede2cc4d3b44bc0e42613fd3860da5a",
 "assets/assets/images/colombia.json": "e4c1a43ffee9c2fff36995c48bea3606",
 "assets/assets/images/divipola.json": "6e41f39e778dc0a3124adcd6e0ec87cb",
+<<<<<<< HEAD
+>>>>>>> 1b89009653168747470dfca73823220782c76433
+=======
 >>>>>>> 1b89009653168747470dfca73823220782c76433
 "assets/assets/images/ins.png": "f0293e397f132e087986d10f752a3330",
 "assets/assets/images/mosquito.png": "43cfc6c32ef7e54f36bb39562da62dcf",
@@ -243,9 +255,15 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "6455d521f53780bf2b1b468fb986ea67",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 <<<<<<< HEAD
+<<<<<<< HEAD
 "index.html": "54aeb0c348b05981dea7faa69b1b8692",
 "/": "54aeb0c348b05981dea7faa69b1b8692",
 "main.dart.js": "ee29b7f2f2bf1be8ee42a1f68103dce2",
+=======
+"index.html": "5f55e242465baaf8c3ba8df475036f1e",
+"/": "5f55e242465baaf8c3ba8df475036f1e",
+"main.dart.js": "c1470d2e7d074ae3386a64e8db0826ee",
+>>>>>>> 1b89009653168747470dfca73823220782c76433
 =======
 "index.html": "5f55e242465baaf8c3ba8df475036f1e",
 "/": "5f55e242465baaf8c3ba8df475036f1e",

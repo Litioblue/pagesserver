@@ -1,0 +1,6749 @@
+[
+    
+
+
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13001,
+      "Nombre Departamento": "D.CARTAGENA",
+      "Nombre Municipio": "CARTAGENA DE INDIAS"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8001,
+      "Nombre Departamento": "D.BARRANQUILLA",
+      "Nombre Municipio": "BARRANQUILLA"
+    },
+    {
+      "Código Departamento": 11,
+      "Código Municipio": 11001,
+      "Nombre Departamento": "BOGOTÁ D.C.",
+      "Nombre Municipio": "BOGOTÁ D.C."
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5001,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "MEDELLÍN"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5002,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ABEJORRAL"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5004,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ABRIAQUÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5021,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ALEJANDRÍA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5030,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "AMAGÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5031,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "AMALFI"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5034,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ANDES"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5036,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ANGELÓPOLIS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5038,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ANGOSTURA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5040,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ANORÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5042,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SANTA FÉ DE ANTIOQUIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5044,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ANZÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5045,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "APARTADÓ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5051,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ARBOLETES"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5055,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ARGELIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5059,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ARMENIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5079,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BARBOSA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5086,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BELMIRA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5088,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BELLO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5091,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BETANIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5093,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BETULIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5101,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CIUDAD BOLÍVAR"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5107,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BRICEÑO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5113,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "BURITICÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5120,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CÁCERES"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5125,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CAICEDO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5129,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CALDAS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5134,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CAMPAMENTO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5138,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CAÑASGORDAS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5142,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CARACOLÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5145,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CARAMANTA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5147,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CAREPA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5148,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "EL CARMEN DE VIBORAL"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5150,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CAROLINA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5154,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CAUCASIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5172,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CHIGORODÓ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5190,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CISNEROS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5197,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "COCORNÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5206,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CONCEPCIÓN"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5209,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "CONCORDIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5212,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "COPACABANA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5234,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "DABEIBA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5237,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "DONMATÍAS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5240,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "EBÉJICO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5250,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "EL BAGRE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5264,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ENTRERRÍOS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5266,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ENVIGADO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5282,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "FREDONIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5284,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "FRONTINO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5306,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GIRALDO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5308,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GIRARDOTA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5310,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GÓMEZ PLATA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5313,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GRANADA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5315,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GUADALUPE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5318,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GUARNE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5321,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "GUATAPÉ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5347,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "HELICONIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5353,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "HISPANIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5360,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ITAGÜÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5361,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ITUANGO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5364,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "JARDÍN"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5368,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "JERICÓ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5376,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "LA CEJA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5380,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "LA ESTRELLA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5390,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "LA PINTADA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5400,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "LA UNIÓN"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5411,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "LIBORINA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5425,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "MACEO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5440,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "MARINILLA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5467,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "MONTEBELLO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5475,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "MURINDÓ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5480,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "MUTATÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5483,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "NARIÑO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5490,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "NECOCLÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5495,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "NECHÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5501,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "OLAYA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5541,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "PEÑOL"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5543,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "PEQUE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5576,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "PUEBLORRICO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5579,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "PUERTO BERRÍO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5585,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "PUERTO NARE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5591,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "PUERTO TRIUNFO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5604,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "REMEDIOS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5607,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "RETIRO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5615,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "RIONEGRO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5628,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SABANALARGA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5631,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SABANETA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5642,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SALGAR"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5647,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN ANDRÉS DE CUERQUÍA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5649,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN CARLOS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5652,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN FRANCISCO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5656,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN JERÓNIMO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5658,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN JOSÉ DE LA MONTAÑA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5659,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN JUAN DE URABÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5660,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN LUIS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5664,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN PEDRO DE LOS MILAGROS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5665,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN PEDRO DE URABÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5667,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN RAFAEL"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5670,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN ROQUE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5674,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SAN VICENTE FERRER"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5679,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SANTA BÁRBARA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5686,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SANTA ROSA DE OSOS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5690,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SANTO DOMINGO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5697,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "EL SANTUARIO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5736,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SEGOVIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5756,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SONSÓN"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5761,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "SOPETRÁN"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5789,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "TÁMESIS"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5790,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "TARAZÁ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5792,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "TARSO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5809,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "TITIRIBÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5819,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "TOLEDO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5837,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "TURBO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5842,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "URAMITA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5847,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "URRAO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5854,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "VALDIVIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5856,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "VALPARAÍSO"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5858,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "VEGACHÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5861,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "VENECIA"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5873,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "VIGÍA DEL FUERTE"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5885,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "YALÍ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5887,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "YARUMAL"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5890,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "YOLOMBÓ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5893,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "YONDÓ"
+    },
+    {
+      "Código Departamento": 5,
+      "Código Municipio": 5895,
+      "Nombre Departamento": "ANTIOQUIA",
+      "Nombre Municipio": "ZARAGOZA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8001,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "BARRANQUILLA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8078,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "BARANOA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8137,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "CAMPO DE LA CRUZ"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8141,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "CANDELARIA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8296,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "GALAPA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8372,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "JUAN DE ACOSTA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8421,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "LURUACO"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8433,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "MALAMBO"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8436,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "MANATÍ"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8520,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "PALMAR DE VARELA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8549,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "PIOJÓ"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8558,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "POLONUEVO"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8560,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "PONEDERA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8573,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "PUERTO COLOMBIA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8606,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "REPELÓN"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8634,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "SABANAGRANDE"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8638,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "SABANALARGA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8675,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "SANTA LUCÍA"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8685,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "SANTO TOMÁS"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8758,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "SOLEDAD"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8770,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "SUAN"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8832,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "TUBARÁ"
+    },
+    {
+      "Código Departamento": 8,
+      "Código Municipio": 8849,
+      "Nombre Departamento": "ATLÁNTICO",
+      "Nombre Municipio": "USIACURÍ"
+    },
+    {
+      "Código Departamento": 11,
+      "Código Municipio": 11001,
+      "Nombre Departamento": "BOGOTÁ. D.C.",
+      "Nombre Municipio": "BOGOTÁ. D.C."
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13001,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "CARTAGENA DE INDIAS"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13006,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "ACHÍ"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13030,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "ALTOS DEL ROSARIO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13042,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "ARENAL"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13052,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "ARJONA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13062,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "ARROYOHONDO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13074,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "BARRANCO DE LOBA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13140,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "CALAMAR"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13160,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "CANTAGALLO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13188,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "CICUCO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13212,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "CÓRDOBA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13222,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "CLEMENCIA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13244,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "EL CARMEN DE BOLÍVAR"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13248,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "EL GUAMO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13268,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "EL PEÑÓN"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13300,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "HATILLO DE LOBA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13430,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "MAGANGUÉ"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13433,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "MAHATES"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13440,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "MARGARITA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13442,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "MARÍA LA BAJA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13458,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "MONTECRISTO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13468,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SANTA CRUZ DE MOMPOX"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13473,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "MORALES"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13490,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "NOROSÍ"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13549,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "PINILLOS"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13580,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "REGIDOR"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13600,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "RÍO VIEJO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13620,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN CRISTÓBAL"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13647,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN ESTANISLAO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13650,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN FERNANDO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13654,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN JACINTO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13655,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN JACINTO DEL CAUCA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13657,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN JUAN NEPOMUCENO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13667,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN MARTÍN DE LOBA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13670,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SAN PABLO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13673,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SANTA CATALINA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13683,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SANTA ROSA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13688,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SANTA ROSA DEL SUR"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13744,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SIMITÍ"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13760,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "SOPLAVIENTO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13780,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "TALAIGUA NUEVO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13810,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "TIQUISIO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13836,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "TURBACO"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13838,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "TURBANÁ"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13873,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "VILLANUEVA"
+    },
+    {
+      "Código Departamento": 13,
+      "Código Municipio": 13894,
+      "Nombre Departamento": "BOLÍVAR",
+      "Nombre Municipio": "ZAMBRANO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15001,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TUNJA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15022,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "ALMEIDA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15047,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "AQUITANIA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15051,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "ARCABUCO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15087,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BELÉN"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15090,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BERBEO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15092,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BETÉITIVA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15097,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BOAVITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15104,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BOYACÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15106,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BRICEÑO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15109,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BUENAVISTA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15114,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "BUSBANZÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15131,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CALDAS"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15135,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CAMPOHERMOSO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15162,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CERINZA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15172,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHINAVITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15176,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHIQUINQUIRÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15180,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHISCAS"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15183,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15185,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHITARAQUE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15187,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHIVATÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15189,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CIÉNEGA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15204,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CÓMBITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15212,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "COPER"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15215,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CORRALES"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15218,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "COVARACHÍA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15223,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CUBARÁ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19318,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "GUAPI"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15224,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CUCAITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15226,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CUÍTIVA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15232,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHÍQUIZA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15236,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "CHIVOR"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15238,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "DUITAMA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15244,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "EL COCUY"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15248,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "EL ESPINO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15272,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "FIRAVITOBA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15276,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "FLORESTA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15293,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GACHANTIVÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15296,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GÁMEZA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15299,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GARAGOA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15317,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GUACAMAYAS"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15322,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GUATEQUE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15325,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GUAYATÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15332,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "GÜICÁN DE LA SIERRA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15362,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "IZA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15367,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "JENESANO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15368,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "JERICÓ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15377,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "LABRANZAGRANDE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15380,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "LA CAPILLA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15401,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "LA VICTORIA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15403,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "LA UVITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15407,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "VILLA DE LEYVA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15425,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MACANAL"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15442,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MARIPÍ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15455,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MIRAFLORES"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15464,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MONGUA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15466,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MONGUÍ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15469,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MONIQUIRÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15476,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MOTAVITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15480,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "MUZO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15491,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "NOBSA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15494,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "NUEVO COLÓN"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15500,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "OICATÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15507,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "OTANCHE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15511,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PACHAVITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15514,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PÁEZ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15516,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PAIPA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15518,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PAJARITO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15522,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PANQUEBA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15531,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PAUNA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15533,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PAYA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15537,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PAZ DE RÍO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15542,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PESCA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15550,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PISBA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15572,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "PUERTO BOYACÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15580,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "QUÍPAMA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15599,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "RAMIRIQUÍ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15600,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "RÁQUIRA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15621,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "RONDÓN"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15632,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SABOYÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15638,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SÁCHICA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15646,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAMACÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15660,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAN EDUARDO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15664,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAN JOSÉ DE PARE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15667,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAN LUIS DE GACENO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15673,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAN MATEO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15676,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAN MIGUEL DE SEMA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15681,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SAN PABLO DE BORBUR"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15686,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SANTANA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15690,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SANTA MARÍA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15693,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SANTA ROSA DE VITERBO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15696,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SANTA SOFÍA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15720,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SATIVANORTE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15723,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SATIVASUR"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15740,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SIACHOQUE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15753,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SOATÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15755,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SOCOTÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15757,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SOCHA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15759,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SOGAMOSO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15761,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SOMONDOCO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15762,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SORA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15763,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SOTAQUIRÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15764,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SORACÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15774,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SUSACÓN"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15776,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SUTAMARCHÁN"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15778,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "SUTATENZA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15790,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TASCO"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15798,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TENZA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15804,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TIBANÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15806,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TIBASOSA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15808,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TINJACÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15810,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TIPACOQUE"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15814,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TOCA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15816,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TOGÜÍ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15820,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TÓPAGA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15822,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TOTA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15832,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TUNUNGUÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15835,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TURMEQUÉ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15837,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TUTA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15839,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "TUTAZÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15842,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "ÚMBITA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15861,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "VENTAQUEMADA"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15879,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "VIRACACHÁ"
+    },
+    {
+      "Código Departamento": 15,
+      "Código Municipio": 15897,
+      "Nombre Departamento": "BOYACÁ",
+      "Nombre Municipio": "ZETAQUIRA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17001,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "MANIZALES"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17013,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "AGUADAS"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17042,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "ANSERMA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17050,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "ARANZAZU"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17088,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "BELALCÁZAR"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17174,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "CHINCHINÁ"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17272,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "FILADELFIA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17380,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "LA DORADA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17388,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "LA MERCED"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17433,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "MANZANARES"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17442,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "MARMATO"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17444,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "MARQUETALIA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17446,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "MARULANDA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17486,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "NEIRA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17495,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "NORCASIA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17513,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "PÁCORA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17524,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "PALESTINA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17541,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "PENSILVANIA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17614,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "RIOSUCIO"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17616,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "RISARALDA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17653,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "SALAMINA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17662,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "SAMANÁ"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17665,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "SAN JOSÉ"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17777,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "SUPÍA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17867,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "VICTORIA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17873,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "VILLAMARÍA"
+    },
+    {
+      "Código Departamento": 17,
+      "Código Municipio": 17877,
+      "Nombre Departamento": "CALDAS",
+      "Nombre Municipio": "VITERBO"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18001,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "FLORENCIA"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18029,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "ALBANIA"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18094,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "BELÉN DE LOS ANDAQUÍES"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18150,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "CARTAGENA DEL CHAIRÁ"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18205,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "CURILLO"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18247,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "EL DONCELLO"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18256,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "EL PAUJÍL"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18410,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "LA MONTAÑITA"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18460,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "MILÁN"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18479,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "MORELIA"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18592,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "PUERTO RICO"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18610,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "SAN JOSÉ DEL FRAGUA"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18753,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "SAN VICENTE DEL CAGUÁN"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18756,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "SOLANO"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18785,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "SOLITA"
+    },
+    {
+      "Código Departamento": 18,
+      "Código Municipio": 18860,
+      "Nombre Departamento": "CAQUETÁ",
+      "Nombre Municipio": "VALPARAÍSO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19001,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "POPAYÁN"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19022,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "ALMAGUER"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19050,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "ARGELIA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19075,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "BALBOA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19100,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "BOLÍVAR"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19110,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "BUENOS AIRES"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19130,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "CAJIBÍO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19137,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "CALDONO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19142,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "CALOTO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19212,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "CORINTO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19256,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "EL TAMBO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19290,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "FLORENCIA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19300,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "GUACHENÉ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19355,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "INZÁ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19364,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "JAMBALÓ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19392,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "LA SIERRA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19397,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "LA VEGA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19418,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "LÓPEZ DE MICAY"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19450,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "MERCADERES"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19455,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "MIRANDA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19473,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "MORALES"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19513,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PADILLA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19517,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PÁEZ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19532,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PATÍA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19533,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PIAMONTE"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19548,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PIENDAMÓ - TUNÍA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19573,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PUERTO TEJADA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19585,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "PURACÉ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19622,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "ROSAS"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19693,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SAN SEBASTIÁN"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19698,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SANTANDER DE QUILICHAO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19701,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SANTA ROSA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19743,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SILVIA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19760,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SOTARÁ PAISPAMBA"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19780,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SUÁREZ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19785,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "SUCRE"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19807,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "TIMBÍO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19809,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "TIMBIQUÍ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19821,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "TORIBÍO"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19824,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "TOTORÓ"
+    },
+    {
+      "Código Departamento": 19,
+      "Código Municipio": 19845,
+      "Nombre Departamento": "CAUCA",
+      "Nombre Municipio": "VILLA RICA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20001,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "VALLEDUPAR"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20011,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "AGUACHICA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20013,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "AGUSTÍN CODAZZI"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20032,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "ASTREA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20045,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "BECERRIL"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20060,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "BOSCONIA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20175,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "CHIMICHAGUA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20178,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "CHIRIGUANÁ"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20228,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "CURUMANÍ"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20238,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "EL COPEY"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20250,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "EL PASO"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20295,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "GAMARRA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20310,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "GONZÁLEZ"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20383,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "LA GLORIA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20400,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "LA JAGUA DE IBIRICO"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20443,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "MANAURE BALCÓN DEL CESAR"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20517,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "PAILITAS"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20550,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "PELAYA"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20570,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "PUEBLO BELLO"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20614,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "RÍO DE ORO"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20621,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "LA PAZ"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20710,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "SAN ALBERTO"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20750,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "SAN DIEGO"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20770,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "SAN MARTÍN"
+    },
+    {
+      "Código Departamento": 20,
+      "Código Municipio": 20787,
+      "Nombre Departamento": "CESAR",
+      "Nombre Municipio": "TAMALAMEQUE"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23001,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "MONTERÍA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23068,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "AYAPEL"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23079,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "BUENAVISTA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23090,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "CANALETE"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23162,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "CERETÉ"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23168,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "CHIMÁ"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23182,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "CHINÚ"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23189,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "CIÉNAGA DE ORO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23300,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "COTORRA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23350,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "LA APARTADA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23417,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "LORICA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23419,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "LOS CÓRDOBAS"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23464,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "MOMIL"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23466,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "MONTELÍBANO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23500,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "MOÑITOS"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23555,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "PLANETA RICA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23570,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "PUEBLO NUEVO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23574,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "PUERTO ESCONDIDO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23580,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "PUERTO LIBERTADOR"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23586,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "PURÍSIMA DE LA CONCEPCIÓN"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23660,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAHAGÚN"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23670,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAN ANDRÉS DE SOTAVENTO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23672,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAN ANTERO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23675,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAN BERNARDO DEL VIENTO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23678,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAN CARLOS"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23682,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAN JOSÉ DE URÉ"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23686,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "SAN PELAYO"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23807,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "TIERRALTA"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23815,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "TUCHÍN"
+    },
+    {
+      "Código Departamento": 23,
+      "Código Municipio": 23855,
+      "Nombre Departamento": "CÓRDOBA",
+      "Nombre Municipio": "VALENCIA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25001,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "AGUA DE DIOS"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25019,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ALBÁN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25035,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ANAPOIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25040,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ANOLAIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25053,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ARBELÁEZ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25086,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "BELTRÁN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25095,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "BITUIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25099,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "BOJACÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25120,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CABRERA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25123,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CACHIPAY"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25126,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CAJICÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25148,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CAPARRAPÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25151,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CÁQUEZA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25154,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CARMEN DE CARUPA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25168,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CHAGUANÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25175,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CHÍA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25178,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CHIPAQUE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25181,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CHOACHÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25183,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CHOCONTÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25200,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "COGUA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25214,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "COTA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25224,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "CUCUNUBÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25245,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "EL COLEGIO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25258,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "EL PEÑÓN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25260,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "EL ROSAL"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25269,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "FACATATIVÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25279,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "FÓMEQUE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25281,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "FOSCA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25286,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "FUNZA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25288,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "FÚQUENE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25290,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "FUSAGASUGÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25293,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GACHALÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25295,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GACHANCIPÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25297,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GACHETÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25299,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GAMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25307,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GIRARDOT"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25312,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GRANADA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25317,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUACHETÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25320,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUADUAS"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25322,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUASCA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25324,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUATAQUÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25326,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUATAVITA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25328,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUAYABAL DE SÍQUIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25335,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUAYABETAL"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25339,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "GUTIÉRREZ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25368,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "JERUSALÉN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25372,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "JUNÍN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25377,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "LA CALERA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25386,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "LA MESA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25394,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "LA PALMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25398,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "LA PEÑA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25402,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "LA VEGA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25407,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "LENGUAZAQUE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25426,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "MACHETÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25430,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "MADRID"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25436,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "MANTA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25438,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "MEDINA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25473,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "MOSQUERA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25483,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "NARIÑO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25486,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "NEMOCÓN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25488,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "NILO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25489,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "NIMAIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25491,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "NOCAIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25506,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VENECIA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25513,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PACHO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25518,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PAIME"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25524,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PANDI"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25530,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PARATEBUENO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25535,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PASCA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25572,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PUERTO SALGAR"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25580,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "PULÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25592,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "QUEBRADANEGRA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25594,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "QUETAME"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25596,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "QUIPILE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25599,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "APULO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25612,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "RICAURTE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25645,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SAN ANTONIO DEL TEQUENDAMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25649,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SAN BERNARDO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25653,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SAN CAYETANO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25658,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SAN FRANCISCO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25662,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SAN JUAN DE RIOSECO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25718,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SASAIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25736,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SESQUILÉ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25740,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SIBATÉ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25743,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SILVANIA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25745,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SIMIJACA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25754,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SOACHA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25758,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SOPÓ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25769,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SUBACHOQUE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25772,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SUESCA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25777,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SUPATÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25779,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SUSA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25781,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "SUTATAUSA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25785,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TABIO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25793,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TAUSA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25797,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TENA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25799,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TENJO"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25805,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TIBACUY"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25807,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TIBIRITA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25815,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TOCAIMA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25817,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TOCANCIPÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25823,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "TOPAIPÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25839,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "UBALÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25841,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "UBAQUE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25843,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VILLA DE SAN DIEGO DE UBATÉ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25845,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "UNE"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25851,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ÚTICA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25862,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VERGARA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25867,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VIANÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25871,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VILLAGÓMEZ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25873,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VILLAPINZÓN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25875,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VILLETA"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25878,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "VIOTÁ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25885,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "YACOPÍ"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25898,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ZIPACÓN"
+    },
+    {
+      "Código Departamento": 25,
+      "Código Municipio": 25899,
+      "Nombre Departamento": "CUNDINAMARCA",
+      "Nombre Municipio": "ZIPAQUIRÁ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27001,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "QUIBDÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27006,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "ACANDÍ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27025,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "ALTO BAUDÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27050,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "ATRATO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27073,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "BAGADÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27075,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "BAHÍA SOLANO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27077,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "BAJO BAUDÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27099,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "BOJAYÁ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27135,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "EL CANTÓN DEL SAN PABLO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27150,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "CARMEN DEL DARIÉN"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27160,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "CÉRTEGUI"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27205,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "CONDOTO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27245,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "EL CARMEN DE ATRATO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27250,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "EL LITORAL DEL SAN JUAN"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27361,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "ISTMINA"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27372,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "JURADÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27413,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "LLORÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27425,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "MEDIO ATRATO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27430,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "MEDIO BAUDÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27450,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "MEDIO SAN JUAN"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27491,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "NÓVITA"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27495,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "NUQUÍ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27580,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "RÍO IRÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27600,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "RÍO QUITO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27615,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "RIOSUCIO"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27660,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "SAN JOSÉ DEL PALMAR"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27745,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "SIPÍ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27787,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "TADÓ"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27800,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "UNGUÍA"
+    },
+    {
+      "Código Departamento": 27,
+      "Código Municipio": 27810,
+      "Nombre Departamento": "CHOCÓ",
+      "Nombre Municipio": "UNIÓN PANAMERICANA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41001,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "NEIVA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41006,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "ACEVEDO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41013,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "AGRADO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41016,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "AIPE"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41020,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "ALGECIRAS"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41026,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "ALTAMIRA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41078,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "BARAYA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41132,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "CAMPOALEGRE"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41206,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "COLOMBIA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41244,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "ELÍAS"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41298,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "GARZÓN"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41306,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "GIGANTE"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41319,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "GUADALUPE"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41349,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "HOBO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41357,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "ÍQUIRA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41359,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "ISNOS"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41378,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "LA ARGENTINA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41396,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "LA PLATA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41483,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "NÁTAGA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41503,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "OPORAPA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41518,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "PAICOL"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41524,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "PALERMO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41530,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "PALESTINA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41548,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "PITAL"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41551,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "PITALITO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41615,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "RIVERA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41660,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "SALADOBLANCO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41668,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "SAN AGUSTÍN"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41676,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "SANTA MARÍA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41770,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "SUAZA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41791,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "TARQUI"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41797,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "TESALIA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41799,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "TELLO"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41801,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "TERUEL"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41807,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "TIMANÁ"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41872,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "VILLAVIEJA"
+    },
+    {
+      "Código Departamento": 41,
+      "Código Municipio": 41885,
+      "Nombre Departamento": "HUILA",
+      "Nombre Municipio": "YAGUARÁ"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44001,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "RIOHACHA"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44035,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "ALBANIA"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44078,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "BARRANCAS"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44090,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "DIBULLA"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44098,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "DISTRACCIÓN"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44110,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "EL MOLINO"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44279,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "FONSECA"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44378,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "HATONUEVO"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44420,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "LA JAGUA DEL PILAR"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44430,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "MAICAO"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44560,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "MANAURE"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44650,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "SAN JUAN DEL CESAR"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44847,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "URIBIA"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44855,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "URUMITA"
+    },
+    {
+      "Código Departamento": 44,
+      "Código Municipio": 44874,
+      "Nombre Departamento": "LA GUAJIRA",
+      "Nombre Municipio": "VILLANUEVA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47001,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SANTA MARTA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47030,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "ALGARROBO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47053,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "ARACATACA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47058,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "ARIGUANÍ"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47161,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "CERRO DE SAN ANTONIO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47170,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "CHIVOLO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47189,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "CIÉNAGA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47205,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "CONCORDIA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47245,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "EL BANCO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47258,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "EL PIÑÓN"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47268,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "EL RETÉN"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47288,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "FUNDACIÓN"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47318,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "GUAMAL"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47460,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "NUEVA GRANADA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47541,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "PEDRAZA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47545,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "PIJIÑO DEL CARMEN"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47551,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "PIVIJAY"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47555,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "PLATO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47570,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "PUEBLOVIEJO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47605,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "REMOLINO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47660,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SABANAS DE SAN ÁNGEL"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47675,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SALAMINA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47692,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SAN SEBASTIÁN DE BUENAVISTA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47703,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SAN ZENÓN"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47707,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SANTA ANA"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47720,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SANTA BÁRBARA DE PINTO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47745,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "SITIONUEVO"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47798,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "TENERIFE"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47960,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "ZAPAYÁN"
+    },
+    {
+      "Código Departamento": 47,
+      "Código Municipio": 47980,
+      "Nombre Departamento": "MAGDALENA",
+      "Nombre Municipio": "ZONA BANANERA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50001,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "VILLAVICENCIO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50006,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "ACACÍAS"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50110,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "BARRANCA DE UPÍA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50124,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "CABUYARO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50150,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "CASTILLA LA NUEVA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50223,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "CUBARRAL"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50226,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "CUMARAL"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50245,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "EL CALVARIO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50251,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "EL CASTILLO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50270,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "EL DORADO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50287,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "FUENTE DE ORO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50313,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "GRANADA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50318,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "GUAMAL"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50325,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "MAPIRIPÁN"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50330,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "MESETAS"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50350,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "LA MACARENA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50370,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "URIBE"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50400,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "LEJANÍAS"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50450,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "PUERTO CONCORDIA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50568,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "PUERTO GAITÁN"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50573,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "PUERTO LÓPEZ"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50577,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "PUERTO LLERAS"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50590,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "PUERTO RICO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50606,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "RESTREPO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50680,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "SAN CARLOS DE GUAROA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50683,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "SAN JUAN DE ARAMA"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50686,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "SAN JUANITO"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50689,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "SAN MARTÍN"
+    },
+    {
+      "Código Departamento": 50,
+      "Código Municipio": 50711,
+      "Nombre Departamento": "META",
+      "Nombre Municipio": "VISTAHERMOSA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52001,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "PASTO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52019,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "ALBÁN"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52022,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "ALDANA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52036,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "ANCUYA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52051,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "ARBOLEDA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52079,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "BARBACOAS"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52083,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "BELÉN"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52110,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "BUESACO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52203,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "COLÓN"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52207,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CONSACÁ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52210,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CONTADERO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52215,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CÓRDOBA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52224,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CUASPUD CARLOSAMA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52227,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CUMBAL"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52233,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CUMBITARA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52240,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "CHACHAGÜÍ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52250,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "EL CHARCO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52254,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "EL PEÑOL"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52256,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "EL ROSARIO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52258,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "EL TABLÓN DE GÓMEZ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52260,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "EL TAMBO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52287,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "FUNES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52317,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "GUACHUCAL"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52320,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "GUAITARILLA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52323,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "GUALMATÁN"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52352,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "ILES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52354,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "IMUÉS"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52356,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "IPIALES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52378,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LA CRUZ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52381,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LA FLORIDA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52385,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LA LLANADA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52390,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LA TOLA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52399,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LA UNIÓN"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52405,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LEIVA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52411,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LINARES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52418,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "LOS ANDES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52427,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "MAGÜÍ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52435,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "MALLAMA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52473,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "MOSQUERA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52480,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "NARIÑO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52490,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "OLAYA HERRERA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52506,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "OSPINA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52520,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "FRANCISCO PIZARRO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52540,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "POLICARPA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52560,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "POTOSÍ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52565,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "PROVIDENCIA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52573,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "PUERRES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52585,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "PUPIALES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52612,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "RICAURTE"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52621,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "ROBERTO PAYÁN"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52678,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAMANIEGO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52683,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SANDONÁ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52685,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAN BERNARDO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52687,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAN LORENZO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52693,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAN PABLO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52694,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAN PEDRO DE CARTAGO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52696,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SANTA BÁRBARA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52699,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SANTACRUZ"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52720,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAPUYES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52786,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "TAMINANGO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52788,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "TANGUA"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52835,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "SAN ANDRÉS DE TUMACO"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52838,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "TÚQUERRES"
+    },
+    {
+      "Código Departamento": 52,
+      "Código Municipio": 52885,
+      "Nombre Departamento": "NARIÑO",
+      "Nombre Municipio": "YACUANQUER"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54001,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SAN JOSÉ DE CÚCUTA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54003,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "ÁBREGO"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54051,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "ARBOLEDAS"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54099,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "BOCHALEMA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54109,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "BUCARASICA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54125,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "CÁCOTA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54128,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "CÁCHIRA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54172,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "CHINÁCOTA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54174,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "CHITAGÁ"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54206,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "CONVENCIÓN"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54223,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "CUCUTILLA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54239,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "DURANIA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54245,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "EL CARMEN"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54250,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "EL TARRA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54261,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "EL ZULIA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54313,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "GRAMALOTE"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54344,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "HACARÍ"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54347,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "HERRÁN"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54377,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "LABATECA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54385,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "LA ESPERANZA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54398,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "LA PLAYA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54405,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "LOS PATIOS"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54418,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "LOURDES"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54480,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "MUTISCUA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54498,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "OCAÑA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54518,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "PAMPLONA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54520,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "PAMPLONITA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54553,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "PUERTO SANTANDER"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54599,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "RAGONVALIA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54660,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SALAZAR"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54670,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SAN CALIXTO"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54673,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SAN CAYETANO"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54680,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SANTIAGO"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54720,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SARDINATA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54743,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "SILOS"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54800,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "TEORAMA"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54810,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "TIBÚ"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54820,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "TOLEDO"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54871,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "VILLA CARO"
+    },
+    {
+      "Código Departamento": 54,
+      "Código Municipio": 54874,
+      "Nombre Departamento": "NORTE DE SANTANDER",
+      "Nombre Municipio": "VILLA DEL ROSARIO"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63001,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "ARMENIA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63111,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "BUENAVISTA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63130,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "CALARCÁ"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63190,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "CIRCASIA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63212,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "CÓRDOBA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63272,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "FILANDIA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63302,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "GÉNOVA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63401,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "LA TEBAIDA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63470,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "MONTENEGRO"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63548,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "PIJAO"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63594,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "QUIMBAYA"
+    },
+    {
+      "Código Departamento": 63,
+      "Código Municipio": 63690,
+      "Nombre Departamento": "QUINDÍO",
+      "Nombre Municipio": "SALENTO"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66001,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "PEREIRA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66045,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "APÍA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66075,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "BALBOA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66088,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "BELÉN DE UMBRÍA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66170,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "DOSQUEBRADAS"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66318,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "GUÁTICA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66383,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "LA CELIA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66400,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "LA VIRGINIA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66440,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "MARSELLA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66456,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "MISTRATÓ"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66572,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "PUEBLO RICO"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66594,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "QUINCHÍA"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66682,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "SANTA ROSA DE CABAL"
+    },
+    {
+      "Código Departamento": 66,
+      "Código Municipio": 66687,
+      "Nombre Departamento": "RISARALDA",
+      "Nombre Municipio": "SANTUARIO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68001,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "BUCARAMANGA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68013,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "AGUADA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68020,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "ALBANIA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68051,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "ARATOCA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68077,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "BARBOSA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68079,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "BARICHARA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68081,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "BARRANCABERMEJA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68092,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "BETULIA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68101,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "BOLÍVAR"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68121,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CABRERA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68132,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CALIFORNIA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68147,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CAPITANEJO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68152,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CARCASÍ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68160,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CEPITÁ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68162,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CERRITO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68167,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CHARALÁ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68169,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CHARTA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68176,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CHIMA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68179,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CHIPATÁ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68190,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CIMITARRA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68207,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CONCEPCIÓN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68209,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CONFINES"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68211,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CONTRATACIÓN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68217,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "COROMORO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68229,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "CURITÍ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68235,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "EL CARMEN DE CHUCURI"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68245,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "EL GUACAMAYO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68250,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "EL PEÑÓN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68255,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "EL PLAYÓN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68264,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "ENCINO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68266,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "ENCISO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68271,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "FLORIÁN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68276,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "FLORIDABLANCA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68296,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GALÁN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68298,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GÁMBITA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68307,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GIRÓN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68318,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GUACA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68320,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GUADALUPE"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68322,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GUAPOTÁ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68324,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GUAVATÁ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68327,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "GÜEPSA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68344,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "HATO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68368,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "JESÚS MARÍA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68370,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "JORDÁN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68377,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "LA BELLEZA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68385,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "LANDÁZURI"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68397,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "LA PAZ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68406,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "LEBRIJA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68418,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "LOS SANTOS"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68425,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "MACARAVITA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68432,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "MÁLAGA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68444,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "MATANZA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68464,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "MOGOTES"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68468,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "MOLAGAVITA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68498,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "OCAMONTE"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68500,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "OIBA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68502,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "ONZAGA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68522,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PALMAR"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68524,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PALMAS DEL SOCORRO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68533,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PÁRAMO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68547,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PIEDECUESTA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68549,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PINCHOTE"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68572,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PUENTE NACIONAL"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68573,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PUERTO PARRA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68575,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "PUERTO WILCHES"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68615,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "RIONEGRO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68655,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SABANA DE TORRES"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68669,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN ANDRÉS"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68673,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN BENITO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68679,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN GIL"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68682,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN JOAQUÍN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68684,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN JOSÉ DE MIRANDA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68686,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN MIGUEL"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68689,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SAN VICENTE DE CHUCURÍ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68705,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SANTA BÁRBARA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68720,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SANTA HELENA DEL OPÓN"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68745,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SIMACOTA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68755,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SOCORRO"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68770,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SUAITA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68773,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SUCRE"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68780,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "SURATÁ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68820,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "TONA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68855,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "VALLE DE SAN JOSÉ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68861,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "VÉLEZ"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68867,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "VETAS"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68872,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "VILLANUEVA"
+    },
+    {
+      "Código Departamento": 68,
+      "Código Municipio": 68895,
+      "Nombre Departamento": "SANTANDER",
+      "Nombre Municipio": "ZAPATOCA"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70001,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SINCELEJO"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70110,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "BUENAVISTA"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70124,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "CAIMITO"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70204,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "COLOSÓ"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70215,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "COROZAL"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70221,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "COVEÑAS"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70230,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "CHALÁN"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70233,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "EL ROBLE"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70235,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "GALERAS"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70265,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "GUARANDA"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70400,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "LA UNIÓN"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70418,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "LOS PALMITOS"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70429,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "MAJAGUAL"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70473,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "MORROA"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70508,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "OVEJAS"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70523,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "PALMITO"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70670,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAMPUÉS"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70678,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN BENITO ABAD"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70702,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN JUAN DE BETULIA"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70708,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN MARCOS"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70713,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN ONOFRE"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70717,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN PEDRO"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70742,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN LUIS DE SINCÉ"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70771,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SUCRE"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70820,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SANTIAGO DE TOLÚ"
+    },
+    {
+      "Código Departamento": 70,
+      "Código Municipio": 70823,
+      "Nombre Departamento": "SUCRE",
+      "Nombre Municipio": "SAN JOSÉ DE TOLUVIEJO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73001,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "IBAGUÉ"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73024,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ALPUJARRA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73026,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ALVARADO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73030,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "AMBALEMA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73043,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ANZOÁTEGUI"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73055,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ARMERO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73067,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ATACO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73124,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "CAJAMARCA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73148,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "CARMEN DE APICALÁ"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73152,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "CASABIANCA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73168,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "CHAPARRAL"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73200,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "COELLO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73217,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "COYAIMA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73226,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "CUNDAY"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73236,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "DOLORES"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73268,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ESPINAL"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73270,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "FALAN"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73275,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "FLANDES"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73283,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "FRESNO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73319,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "GUAMO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73347,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "HERVEO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73349,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "HONDA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73352,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ICONONZO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73408,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "LÉRIDA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73411,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "LÍBANO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73443,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "SAN SEBASTIÁN DE MARIQUITA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73449,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "MELGAR"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73461,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "MURILLO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73483,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "NATAGAIMA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73504,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ORTEGA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73520,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "PALOCABILDO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73547,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "PIEDRAS"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73555,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "PLANADAS"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73563,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "PRADO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73585,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "PURIFICACIÓN"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73616,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "RIOBLANCO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73622,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "RONCESVALLES"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73624,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "ROVIRA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73671,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "SALDAÑA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73675,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "SAN ANTONIO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73678,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "SAN LUIS"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73686,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "SANTA ISABEL"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73770,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "SUÁREZ"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73854,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "VALLE DE SAN JUAN"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73861,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "VENADILLO"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73870,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "VILLAHERMOSA"
+    },
+    {
+      "Código Departamento": 73,
+      "Código Municipio": 73873,
+      "Nombre Departamento": "TOLIMA",
+      "Nombre Municipio": "VILLARRICA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76001,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "CALI"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76020,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ALCALÁ"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76036,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ANDALUCÍA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76041,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ANSERMANUEVO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76054,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ARGELIA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76100,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "BOLÍVAR"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76109,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "BUENAVENTURA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76111,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "GUADALAJARA DE BUGA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76113,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "BUGALAGRANDE"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76122,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "CAICEDONIA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76126,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "CALIMA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76130,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "CANDELARIA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76147,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "CARTAGO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76233,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "DAGUA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76243,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "EL ÁGUILA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76246,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "EL CAIRO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76248,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "EL CERRITO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76250,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "EL DOVIO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76275,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "FLORIDA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76306,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "GINEBRA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76318,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "GUACARÍ"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76364,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "JAMUNDÍ"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76377,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "LA CUMBRE"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76400,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "LA UNIÓN"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76403,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "LA VICTORIA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76497,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "OBANDO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76520,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "PALMIRA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76563,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "PRADERA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76606,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "RESTREPO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76616,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "RIOFRÍO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76622,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ROLDANILLO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76670,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "SAN PEDRO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76736,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "SEVILLA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76823,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "TORO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76828,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "TRUJILLO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76834,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "TULUÁ"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76845,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ULLOA"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76863,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "VERSALLES"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76869,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "VIJES"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76890,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "YOTOCO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76892,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "YUMBO"
+    },
+    {
+      "Código Departamento": 76,
+      "Código Municipio": 76895,
+      "Nombre Departamento": "VALLE DEL CAUCA",
+      "Nombre Municipio": "ZARZAL"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81001,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "ARAUCA"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81065,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "ARAUQUITA"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81220,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "CRAVO NORTE"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81300,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "FORTUL"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81591,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "PUERTO RONDÓN"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81736,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "SARAVENA"
+    },
+    {
+      "Código Departamento": 81,
+      "Código Municipio": 81794,
+      "Nombre Departamento": "ARAUCA",
+      "Nombre Municipio": "TAME"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85001,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "YOPAL"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85010,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "AGUAZUL"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85015,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "CHÁMEZA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85125,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "HATO COROZAL"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85136,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "LA SALINA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85139,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "MANÍ"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85162,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "MONTERREY"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85225,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "NUNCHÍA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85230,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "OROCUÉ"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85250,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "PAZ DE ARIPORO"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85263,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "PORE"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85279,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "RECETOR"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85300,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "SABANALARGA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85315,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "SÁCAMA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85325,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "SAN LUIS DE PALENQUE"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85400,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "TÁMARA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85410,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "TAURAMENA"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85430,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "TRINIDAD"
+    },
+    {
+      "Código Departamento": 85,
+      "Código Municipio": 85440,
+      "Nombre Departamento": "CASANARE",
+      "Nombre Municipio": "VILLANUEVA"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86001,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "MOCOA"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86219,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "COLÓN"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86320,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "ORITO"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86568,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "PUERTO ASÍS"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86569,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "PUERTO CAICEDO"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86571,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "PUERTO GUZMÁN"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86573,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "PUERTO LEGUÍZAMO"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86749,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "SIBUNDOY"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86755,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "SAN FRANCISCO"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86757,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "SAN MIGUEL"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86760,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "SANTIAGO"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86865,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "VALLE DEL GUAMUEZ"
+    },
+    {
+      "Código Departamento": 86,
+      "Código Municipio": 86885,
+      "Nombre Departamento": "PUTUMAYO",
+      "Nombre Municipio": "VILLAGARZÓN"
+    },
+    {
+      "Código Departamento": 88,
+      "Código Municipio": 88001,
+      "Nombre Departamento": "ARCHIPIÉLAGO DE SAN ANDRÉS. PROVIDENCIA Y SANTA CATALINA",
+      "Nombre Municipio": "SAN ANDRÉS"
+    },
+    {
+      "Código Departamento": 88,
+      "Código Municipio": 88564,
+      "Nombre Departamento": "ARCHIPIÉLAGO DE SAN ANDRÉS. PROVIDENCIA Y SANTA CATALINA",
+      "Nombre Municipio": "PROVIDENCIA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91001,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "LETICIA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91263,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "EL ENCANTO"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91405,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "LA CHORRERA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91407,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "LA PEDRERA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91430,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "LA VICTORIA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91460,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "MIRITÍ - PARANÁ"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91530,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "PUERTO ALEGRÍA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91536,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "PUERTO ARICA"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91540,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "PUERTO NARIÑO"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91669,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "PUERTO SANTANDER"
+    },
+    {
+      "Código Departamento": 91,
+      "Código Municipio": 91798,
+      "Nombre Departamento": "AMAZONAS",
+      "Nombre Municipio": "TARAPACÁ"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94001,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "INÍRIDA"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94343,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "BARRANCOMINAS"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94883,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "SAN FELIPE"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94884,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "PUERTO COLOMBIA"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94885,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "LA GUADALUPE"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94886,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "CACAHUAL"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94887,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "PANA PANA"
+    },
+    {
+      "Código Departamento": 94,
+      "Código Municipio": 94888,
+      "Nombre Departamento": "GUAINÍA",
+      "Nombre Municipio": "MORICHAL"
+    },
+    {
+      "Código Departamento": 95,
+      "Código Municipio": 95001,
+      "Nombre Departamento": "GUAVIARE",
+      "Nombre Municipio": "SAN JOSÉ DEL GUAVIARE"
+    },
+    {
+      "Código Departamento": 95,
+      "Código Municipio": 95015,
+      "Nombre Departamento": "GUAVIARE",
+      "Nombre Municipio": "CALAMAR"
+    },
+    {
+      "Código Departamento": 95,
+      "Código Municipio": 95025,
+      "Nombre Departamento": "GUAVIARE",
+      "Nombre Municipio": "EL RETORNO"
+    },
+    {
+      "Código Departamento": 95,
+      "Código Municipio": 95200,
+      "Nombre Departamento": "GUAVIARE",
+      "Nombre Municipio": "MIRAFLORES"
+    },
+    {
+      "Código Departamento": 97,
+      "Código Municipio": 97001,
+      "Nombre Departamento": "VAUPÉS",
+      "Nombre Municipio": "MITÚ"
+    },
+    {
+      "Código Departamento": 97,
+      "Código Municipio": 97161,
+      "Nombre Departamento": "VAUPÉS",
+      "Nombre Municipio": "CARURÚ"
+    },
+    {
+      "Código Departamento": 97,
+      "Código Municipio": 97511,
+      "Nombre Departamento": "VAUPÉS",
+      "Nombre Municipio": "PACOA"
+    },
+    {
+      "Código Departamento": 97,
+      "Código Municipio": 97666,
+      "Nombre Departamento": "VAUPÉS",
+      "Nombre Municipio": "TARAIRA"
+    },
+    {
+      "Código Departamento": 97,
+      "Código Municipio": 97777,
+      "Nombre Departamento": "VAUPÉS",
+      "Nombre Municipio": "PAPUNAHUA"
+    },
+    {
+      "Código Departamento": 97,
+      "Código Municipio": 97889,
+      "Nombre Departamento": "VAUPÉS",
+      "Nombre Municipio": "YAVARATÉ"
+    },
+    {
+      "Código Departamento": 99,
+      "Código Municipio": 99001,
+      "Nombre Departamento": "VICHADA",
+      "Nombre Municipio": "PUERTO CARREÑO"
+    },
+    {
+      "Código Departamento": 99,
+      "Código Municipio": 99524,
+      "Nombre Departamento": "VICHADA",
+      "Nombre Municipio": "LA PRIMAVERA"
+    },
+    {
+      "Código Departamento": 99,
+      "Código Municipio": 99624,
+      "Nombre Departamento": "VICHADA",
+      "Nombre Municipio": "SANTA ROSALÍA"
+    },
+    {
+      "Código Departamento": 99,
+      "Código Municipio": 99773,
+      "Nombre Departamento": "VICHADA",
+      "Nombre Municipio": "CUMARIBO"
+    }
+  ]
